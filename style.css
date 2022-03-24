@@ -1,8 +1,34 @@
-nav {
-    color: #444444;
-    background-color: bisque;
+body {
+    background-color: #580501;
+}
+nav{
+}
+nav ul{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+   
+
+    
+    
+}
+nav li a{
+    display: flex;
+    padding: 0px 6px 6px 6px;
+    color: #ffc941; 
+    width: 33.33%;
+
+
+  
 }
 nav li a:link{
     text-decoration: none;
 
+}
+nav .sidenav{
+    font-size: 25px;
+    font-family: monospace;
+    height: 100%;
+    position: fixed;
+    background-color: #580501;
 }
