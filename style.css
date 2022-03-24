@@ -15,7 +15,7 @@ nav ul{
 nav li a{
     display: flex;
     padding: 0px 6px 6px 6px;
-    color: #ffc941; 
+    color: #ffc93c; 
     width: 33.33%;
 
 
@@ -31,4 +31,10 @@ nav .sidenav{
     height: 100%;
     position: fixed;
     background-color: #580501;
+}
+main {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 0%;
+    margin-left: 0%;
 }
