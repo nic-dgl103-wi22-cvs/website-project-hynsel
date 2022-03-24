@@ -1,0 +1,8 @@
+nav {
+    color: #444444;
+    background-color: bisque;
+}
+nav li a:link{
+    text-decoration: none;
+
+}
