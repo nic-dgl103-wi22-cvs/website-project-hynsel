@@ -1,7 +1,7 @@
 body {
     background-color: #580501;
-}
-nav{
+    font-family: monospace; 
+    font-weight: bolder;
 }
 nav ul{
     display: flex;
@@ -16,7 +16,7 @@ nav li a{
     display: flex;
     padding: 0px 6px 6px 6px;
     color: #ffc93c; 
-    width: 33.33%;
+    width: 15%;
 
 
   
@@ -36,6 +36,6 @@ main {
     display: flex;
     flex-direction: row-reverse;
     margin-top: 0%;
-    margin-left: 0%;
+    margin-left: 15%;
     
 }
