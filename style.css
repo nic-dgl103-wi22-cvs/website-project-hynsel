@@ -30,7 +30,7 @@ nav .sidenav{
     font-family: monospace;
     height: 100%;
     position: fixed;
-    background-color: #580501;
+    background-color: transparent;
 }
 main {
     display: flex;
