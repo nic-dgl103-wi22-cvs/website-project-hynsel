@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
   }
-  
+
  h1{
    color: brown; 
   font-family:'Bebas Neue';
@@ -67,7 +67,7 @@ main{
     margin-left:165px
 }
     
-}
+
 footer{
     margin-left: 165px;
 }
