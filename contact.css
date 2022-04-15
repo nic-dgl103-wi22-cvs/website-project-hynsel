@@ -7,6 +7,9 @@ h1{
 header a:link{
     text-decoration: none;
 }
+header{
+    float: left; width: 150px;
+}
 
 nav ul{
     display: flex;

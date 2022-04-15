@@ -38,6 +38,7 @@ nav .sidenav{
     font-size: 25px;
     font-family: monospace;
     height: 100%;
+    margin-top: 150px;
     position: fixed;
     background-color: transparent;
 }

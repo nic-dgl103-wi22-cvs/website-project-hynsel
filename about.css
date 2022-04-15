@@ -1,0 +1,69 @@
+h1{
+    color: brown; 
+   font-family:'Bebas Neue';
+   font-weight: 400;
+  font-size: 85px;
+  }
+  header a:link{
+      text-decoration: none;
+ }
+ header{
+     float: left; width: 150px;
+ }
+ 
+ nav .sidenav{
+     font-size: 25px;
+     font-family: monospace;
+     height: 100%;
+     margin-top: 150px;
+     position: fixed;
+     background-color: transparent;
+ }
+ nav ul{
+     display: flex;
+     flex-direction: column;
+     list-style-type: none;
+ 
+    
+     
+ }
+ nav li a{
+     display: flex;
+     padding: 0px 6px 6px 6px;
+     color: #ffc93c; 
+     width: 15%;
+ 
+ 
+   
+ }
+ nav li a:link{
+     text-decoration: none;
+ 
+ }
+ nav .sidenav{
+     font-size: 25px;
+     font-family: monospace;
+     height: 100%;
+     position: fixed;
+     background-color: transparent;
+ }
+ main {
+     display: flex;
+     flex-direction: row-reverse;
+     justify-content: space-evenly;
+     
+ }
+ 
+  main .gallery1{
+        display: flex;
+      justify-content: space-evenly;
+ 
+ }
+ main{
+     margin-left:165px
+ }
+     
+ }
+ footer{
+     margin-left: 165px;
+ }
