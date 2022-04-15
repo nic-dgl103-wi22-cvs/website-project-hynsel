@@ -52,38 +52,38 @@ main{
 }
 
 
-input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+input:focus, textarea {
     color: gray;
     font-size: 0.875em;
   }
   
-  input:focus::-webkit-input-placeholder, textarea:focus::-webkit-input-placeholder {
+  input:focus, textarea:focus {
     color: gray;
   }
   
-  input::-moz-placeholder, textarea::-moz-placeholder {
+  input:focus, textarea{
     color: gray;
     font-size: 0.875em;
   }
   
-  input:focus::-moz-placeholder, textarea:focus::-moz-placeholder {
+  input:focus, textarea{
     color: gray;
   }
   
-  input::placeholder, textarea::placeholder {
+  input::placeholder, textarea{
     color: gray;
     font-size: 0.875em;
   }
   
-  input:focus::placeholder, textarea::focus:placeholder {
+  input:focus, textarea:focus {
     color: gray;
   }
   
-  input::-ms-placeholder, textarea::-ms-placeholder {
+  input, textarea {
     color: gray;
     font-size: 0.875em;
   }
-  input:focus::-ms-placeholder, textarea:focus::-ms-placeholder {
+  input:focus, textarea:focus {
     color: gray;
   }
 
