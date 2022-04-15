@@ -67,3 +67,7 @@ main{
 footer{
     margin-left: 165px;
 }
+main .article{
+    font-weight: lighter;
+    font-size: medium;
+}
