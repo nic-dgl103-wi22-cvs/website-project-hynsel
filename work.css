@@ -2,16 +2,20 @@
    color: brown; 
   font-family:'Bebas Neue';
   font-weight: 400;
- font-size: 100px;
+ font-size: 85px;
  }
  header a:link{
      text-decoration: none;
+}
+header{
+    float: left; width: 150px;
 }
 
 nav .sidenav{
     font-size: 25px;
     font-family: monospace;
     height: 100%;
+    margin-top: 150px;
     position: fixed;
     background-color: transparent;
 }
@@ -60,8 +64,6 @@ main {
 main{
     margin-left:165px
 }
-
-.gallery{
     
 }
 footer{
