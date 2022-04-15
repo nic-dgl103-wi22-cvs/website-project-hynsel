@@ -19,9 +19,8 @@ nav ul{
     display: flex;
     flex-direction: column;
     list-style-type: none;
-   
 
-    
+   
     
 }
 nav li a{
@@ -49,16 +48,15 @@ main {
     flex-direction: row-reverse;
     margin-top: 0%;
     margin-left: 0%;
+    justify-content: space-evenly;
     
 }
 
  main .gallery1{
        display: flex;
-     justify-content: space-around;
-     margin-left: 5%;
-                
-            
-  }
+     justify-content: space-evenly;
+
+}
 main{
     margin-left:165px
 }
