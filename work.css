@@ -50,8 +50,6 @@ nav .sidenav{
 main {
     display: flex;
     flex-direction: row-reverse;
-    margin-top: 0%;
-    margin-left: 0%;
     justify-content: space-evenly;
     
 }
