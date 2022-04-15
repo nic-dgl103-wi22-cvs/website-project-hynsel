@@ -1,26 +1,35 @@
+h1{
+    color: brown; 
+    font-family:'Bebas Neue';
+    font-weight: 400;
+    font-size: 85px;
+}
+header a:link{
+    text-decoration: none;
+}
+
 body {
     background-color: whitesmoke;
     font-family: monospace; 
     font-weight: bolder;
 }
+
 nav ul{
     display: flex;
     flex-direction: column;
     list-style-type: none;
    
-
-    
     
 }
 nav li a{
     display: flex;
     padding: 0px 6px 6px 6px;
     color: #ffc93c; 
-    width: 15%;
-
+    width: 150px;
 
   
 }
+
 nav li a:link{
     text-decoration: none;
 

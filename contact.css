@@ -33,3 +33,6 @@ nav .sidenav{
     position: fixed;
     background-color: transparent;
 }
+main{
+   margin-left: 165px; 
+}

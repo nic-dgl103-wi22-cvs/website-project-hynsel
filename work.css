@@ -4,7 +4,6 @@
   font-weight: 400;
  font-size: 100px;
  }
-
  header a:link{
      text-decoration: none;
 }
@@ -55,7 +54,8 @@ main {
 
  main .gallery1{
        display: flex;
-     justify-content: end;
+     justify-content: space-around;
+     margin-left: 5%;
                 
             
   }
